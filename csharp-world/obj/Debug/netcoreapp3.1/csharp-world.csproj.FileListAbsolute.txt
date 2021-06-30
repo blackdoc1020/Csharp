@@ -1,0 +1,12 @@
+/Users/limyeongjin/Desktop/c#/csharp-world/csharp-world/bin/Debug/netcoreapp3.1/csharp-world.deps.json
+/Users/limyeongjin/Desktop/c#/csharp-world/csharp-world/bin/Debug/netcoreapp3.1/csharp-world.runtimeconfig.json
+/Users/limyeongjin/Desktop/c#/csharp-world/csharp-world/bin/Debug/netcoreapp3.1/csharp-world.runtimeconfig.dev.json
+/Users/limyeongjin/Desktop/c#/csharp-world/csharp-world/bin/Debug/netcoreapp3.1/csharp-world.dll
+/Users/limyeongjin/Desktop/c#/csharp-world/csharp-world/bin/Debug/netcoreapp3.1/csharp-world.pdb
+/Users/limyeongjin/Desktop/c#/csharp-world/csharp-world/obj/Debug/netcoreapp3.1/csharp-world.csproj.AssemblyReference.cache
+/Users/limyeongjin/Desktop/c#/csharp-world/csharp-world/obj/Debug/netcoreapp3.1/csharp-world.AssemblyInfoInputs.cache
+/Users/limyeongjin/Desktop/c#/csharp-world/csharp-world/obj/Debug/netcoreapp3.1/csharp-world.AssemblyInfo.cs
+/Users/limyeongjin/Desktop/c#/csharp-world/csharp-world/obj/Debug/netcoreapp3.1/csharp-world.csproj.CoreCompileInputs.cache
+/Users/limyeongjin/Desktop/c#/csharp-world/csharp-world/obj/Debug/netcoreapp3.1/csharp-world.dll
+/Users/limyeongjin/Desktop/c#/csharp-world/csharp-world/obj/Debug/netcoreapp3.1/csharp-world.pdb
+/Users/limyeongjin/Desktop/c#/csharp-world/csharp-world/obj/Debug/netcoreapp3.1/csharp-world.genruntimeconfig.cache
